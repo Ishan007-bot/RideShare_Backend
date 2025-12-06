@@ -12,6 +12,10 @@ logs/
 *.log
 *.err
 
+# Application configuration (contains sensitive data)
+src/main/resources/application.yaml
+src/main/resources/application.properties
+
 ### STS ###
 .apt_generated
 .classpath
