@@ -1,0 +1,24 @@
+# ----------------------------------------
+# Server Configuration
+# ----------------------------------------
+server:
+  port: 8081
+
+# ----------------------------------------
+# Spring Data MongoDB Configuration
+# ----------------------------------------
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://ishan:zr8Ka8UBXkgi2QMT@cluster0.d4l85it.mongodb.net/rideshare?appName=Cluster0
+
+#zr8Ka8UBXkgi2QMT
+
+
+# ----------------------------------------
+# JWT (JSON Web Token) Configuration
+# ----------------------------------------
+rideshare:
+  app:
+    jwtSecret: 4b8f1c3e0a2d5f7b8e1a3c5d7f0b9e2a4d6f8c0b1e3d5f7a9c2b4e6d8f0a18b2
+    jwtExpirationMs: 86400000
