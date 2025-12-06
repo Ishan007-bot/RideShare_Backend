@@ -1,5 +1,6 @@
-# Ignore all markdown files
+# Ignore markdown files except README
 *.md
+!README.md
 
 # Maven
 target/
