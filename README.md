@@ -306,9 +306,9 @@ Common error types:
 
 ## 📄 License
 
-This project is open source and available for educational purposes.
+This project is open source and available for educational purposes .
 
-## 👤 Author
+## 👤 Author 
 
 Ishan007-bot
 
