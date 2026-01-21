@@ -1,6 +1,6 @@
 # RideShare Backend
 
-A Spring Boot-based ride-sharing backend application with JWT authentication, MongoDB integration, and role-based access control. This project implements a complete REST API for managing ride requests, driver assignments, and ride completion.
+A Spring Boot-based ride-sharing backend application with JWT authentication, MongoDB integration, and role-based access control. This project implements a complete REST API for managing ride requests, driver assignments, and ride completion .
 
 ## 🚀 Features
 
